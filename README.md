@@ -1,1 +1,1 @@
-# [gangsterspairofdice.github.io](gangsterspairofdice.github.io)
+# [GangstersPairOfDice.github.io](gangsterspairofdice.github.io)
